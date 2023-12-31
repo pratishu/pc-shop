@@ -35,7 +35,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={` bg-slate-950 flex flex-col min-h-screen relative ${inter.className} ${poppins.variable} ${roboto.variable}`}
+        className={` bg-background text-text flex flex-col min-h-screen relative ${inter.className} ${poppins.variable} ${roboto.variable}`}
       >
         {children}
       </body>
