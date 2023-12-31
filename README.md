@@ -9,3 +9,6 @@ This website is a PC Component online platform that allow users to buy latest Pe
 - Tailwind
 - Typescript
 - Radix-ui icons
+
+- TODO: add Live Demo Link after deploying on vercel
+- TODO: add the screenshot of the project from top to bottom
